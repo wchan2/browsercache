@@ -1,0 +1,22 @@
+{
+  "name": "browsercache",
+  "version": "0.1.0",
+  "description": "A library that can modularizes cache implementations and invalidate based on different versioning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wchan2/browsercache"
+  },
+  "keywords": [
+    "browsercache"
+  ],
+  "author": "wchan2",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.0",
+    "jest": "^26.6.3"
+  }
+}
